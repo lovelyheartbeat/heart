@@ -1,1 +1,3 @@
-<img src="flamefrags.png" width="430">
+<p align="center">
+  <img src="./flamefrags.png" width="400">
+</p>
